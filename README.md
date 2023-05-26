@@ -1,5 +1,6 @@
 # vulndetox_malscan
 VULNDETOX_Malscan: A powerful Python tool for analyzing and detecting malware with ease and efficiency
+![Types of Malware](https://github.com/ShubhamGupta-VULNDETOX/vulndetox_malscan/assets/70694391/f2804f51-9860-4b57-92ee-2ab3b4e60c91)
 
 VULNDETOX_Malscan is a sophisticated Python tool designed for analyzing and detecting malware. It provides an intuitive and efficient way to analyze suspicious files and identify potential threats. This detailed information will guide you through the usage, benefits, installation, and setup process of VULNDETOX Malware Analyzer.
 
